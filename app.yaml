@@ -3,3 +3,15 @@ handlers:
 - url: /
   static_files: index.html
   upload: index.html
+
+- url: /cv
+  static_files: cv.html
+  upload: cv.html
+
+- url: /profil
+  static_files: profil.html
+  upload: profil.html
+
+- url: /styles.css
+  static_files: styles.css
+  upload: styles.css
